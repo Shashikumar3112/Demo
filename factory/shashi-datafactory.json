@@ -1,0 +1,15 @@
+{
+	"name": "shashi-datafactory",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "02721c2a-3678-43b4-8e5f-fff0d89370c2",
+		"tenantId": "64b59f52-1d0c-46df-acb0-a59be2369766"
+	}
+}
